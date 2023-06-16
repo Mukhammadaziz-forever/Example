@@ -1,0 +1,24 @@
+header {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    margin: -10px;
+}
+
+header h1 {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+header img {
+    height: 40px;
+    width: 45px;
+    text-align: right;
+    margin-left: 580px;
+}
+
+.p {
+    text-align: center;
+}
